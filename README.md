@@ -17,7 +17,6 @@ The Vrinda Store wants to create an annual sales report for 2022. so that, the o
 - Highest selling category?
 - precentage of total orders delivered
   
-- Dashboard Interaction <a hraf="https://github.com/AsmaaSalah234/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Dashboard.PNG">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and and anomalies, and sort out the same.
@@ -26,3 +25,18 @@ The Vrinda Store wants to create an annual sales report for 2022. so that, the o
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ![Vrinda Store Dashboard](https://github.com/user-attachments/assets/971eec5a-3460-4a83-88d2-b72dc5fecd47)
+
+## Sample insights 
+- Women are more likely to buy compare to men (65%)
+- The ststes of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The Adult age group (30-49 yrs) is max contributing (50%) and buys the most products.
+- The maximum number of products customer order from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered. 
+
+  ## Final conclusion
+  To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years
+  residing in Maharashtra, Karnataka, and Uttar Predesh should be implemented. This demographic
+  represents a key consumer segment, as they often make significant household and lifestyle
+  purchases. The approach should include targeted digital marketing campaings and personalized
+  promotion to capture their attention.
+
