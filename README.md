@@ -25,3 +25,4 @@ The Vrinda Store wants to create an annual sales report for 2022. so that, the o
 - Create pivot tables according to the question asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+![Vrinda Store Dashboard](https://github.com/user-attachments/assets/971eec5a-3460-4a83-88d2-b72dc5fecd47)
